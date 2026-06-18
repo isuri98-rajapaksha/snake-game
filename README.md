@@ -78,14 +78,6 @@ Or simply [download the ZIP](https://github.com/YOUR-USERNAME/snake-game/archive
 
 ---
 
-## 📖 The Story Behind It
-
-Snake was my favourite game as a kid — the kind you'd play for hours on a Nokia phone, trying to beat your own high score. When smartphones came along, that simple joy kind of disappeared under all the flashy games.
-
-I built this to bring that memory back. Same concept, same addictive feeling — just updated for today's devices. If it makes you smile or reminds you of your childhood, that's enough for me.
-
----
-
 ## 📄 License
 
 © 2024 — Built with HTML5 Canvas & Vanilla JavaScript.  
