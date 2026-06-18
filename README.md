@@ -8,7 +8,7 @@ Inspired by the classic Nokia Snake that we all played as kids. I wanted to brin
 
 ## 🎮 Play Now
 
-👉 **[Play the live game here](https://YOUR-USERNAME.github.io/snake-game)**
+👉 **[Play the live game here](https://isuri98-rajapaksha.github.io/snake-game/)**
 
 ---
 
