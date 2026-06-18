@@ -74,7 +74,7 @@ Or simply [download the ZIP](https://github.com/YOUR-USERNAME/snake-game/archive
 
 | Start Screen | Gameplay | Game Over |
 |---|---|---|
-| ![Start](screenshots/start.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) |
+| ![Start](screenshots/start.jpg) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) |
 
 ---
 
